@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">TourGuideCroatia</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_Cities">Cities</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_Hotels">Hotels</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_islands">Islands</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_nationalparks">National Parks</string>
+    <!-- Hotels -->
+    <string name="Zagreb">Zagreb</string>
+    <string name="Zagreb_description">Zagreb is the capital and the largest city of Croatia.It is located in the northwest of the country, along the Sava river, at the southern slopes of the Medvednica mountain. Zagreb lies at an elevation of approximately 122 m (400 ft) above sea level. The estimated population of the city in 2018 is 809,773. The population of Zagreb urban agglomeration is slightly above 1.1 million inhabitants and it makes approximately a quarter of a total population of Croatia.</string>
+    <string name="Split">Split</string>
+    <string name="Split_description">Split is the second-largest city of Croatia and the largest city of the region of Dalmatia. It lies on the eastern shore of the Adriatic Sea and is spread over a central peninsula and its surroundings. An intraregional transport hub and popular tourist destination, the city is linked to the Adriatic islands and the Apennine peninsula.</string>
+    <string name="Rijeka">Rijeka</string>
+    <string name="Rijeka_description">Rijeka is the principal seaport and the third-largest city in Croatia (after Zagreb and Split). It is located in Primorje-Gorski Kotar County on Kvarner Bay, an inlet of the Adriatic Sea and has a population of 128,624 inhabitants (2011). The metropolitan area, which includes adjacent towns and municipalities, has a population of more than 240,000.</string>
+    <string name="Osijek">Osijek</string>
+    <string name="Osijek_description">Osijek is the fourth largest city in Croatia with a population of 108,048 in 2011.It is the largest city and the economic and cultural centre of the eastern Croatian region of Slavonia, as well as the administrative centre of Osijek-Baranja County. Osijek is located on the right bank of the river Drava, 25 kilometres (16 mi) upstream of its confluence with the Danube, at an elevation of 94 metres (308 ft).</string>
+
+    <!-- islands -->
+    <string name="Brač">Brač</string>
+    <string name="Brač_description">Braè is an island in the Adriatic Sea within Croatia, with an area of 396 square kilometres (153 sq mi), making it the largest island in Dalmatia, and the third largest in the Adriatic. It is separated from the mainland by the Braè Channel, which is 5 to 13 km (3 to 8 mi) wide. The islands tallest peak, Vidova gora, or Mount St. Vid, stands at 780 m, making it the highest island point in the Adriatic. The island has a population of 13,956 living in numerous settlements, ranging from the main town Supetar, with more than 3,300 inhabitants, to Murvica, where less than two dozen people live. Braè Airport on Braè is the largest airport of all islands surrounding Split.</string>
+    <string name="Cres"> Cres</string>
+    <string name="Cres_description">Cres is an Adriatic island in Croatia. It is one of the northern islands in the Kvarner Gulf and can be reached via ferry from Rijeka, the island Krk or from the Istrian peninsula (line Brestova-Porozina).With an area of 405.78 km2, Cres is the same size as the neighbouring island of Krk, although Krk has for many years been thought the largest of the islands. Cres has a population of 3,079 (2011).Cres and the neighbouring island of Lošinj once used to be one island, but were divided by a channel and connected with a bridge at the town of Osor. Cres only fresh water source is the Lake Vrana.</string>
+    <string name="Hvar"> Hvar</string>
+    <string name="Hvar_description">Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, lying between the islands of Braè, Vis and Korèula. Approximately 68 km (42.25 mi) long, with a high east-west ridge of Mesozoic limestone and dolomite, the island of Hvar is unusual in the area for having a large fertile coastal plain, and fresh water springs. Its hillsides are covered in pine forests, with vineyards, olive groves, fruit orchards and lavender fields in the agricultural areas. The climate is characterized by mild winters, and warm summers with many hours of sunshine. The island has 11,103 residents, making it the 4th most populated of the Croatian islands.</string>
+    <string name="Krk"> Krk</string>
+    <string name="Krk_description">Krk is a Croatian island in the northern Adriatic Sea, located near Rijeka in the Bay of Kvarner and part of Primorje-Gorski Kotar county. Traditionally, Krk had been thought to be the largest Adriatic island, with an area of 405.78 km2 (156.67 sq mi), until geographical survey and remeasurements done in 2011 determined that the neighboring island of Cres has an equal surface area. Krk is the most populous island in the Adriatic sea, with multiple towns and villages that contain a total of 19,383 (2011) inhabitants.</string>
+    <!-- national parks -->
+    <string name="Brijuni">Brijuni National Park </string>
+    <string name="Brijuni_description">The Brijuni are a group of fourteen small islands in the Croatian part of the northern Adriatic Sea, separated from the west coast of the Istrian peninsula by the narrow Fažana Strait. The largest island, Veliki Brijun Island (also known as Brioni Grande or Veli Brijun), (5.6 km2), lies 2 kilometres (1 mile) off the coast. The second largest island is Mali Brijun with an area of 1.07 km2, and twelve much smaller islands. Famous for their scenic beauty, the islands are a holiday resort and a Croatian National Park.</string>
+    <string name="Kornati"> Kornati National Park </string>
+    <string name="Kornati_description">The Kornati archipelago of Croatia, also known as the Stomorski islands, is located in the northern part of Dalmatia, south from Zadar and west from Šibenik, in the Šibenik-Knin county. With 35 kilometres (22 miles) length and 140 islands, some large, some small, in a sea area of about 320 square kilometres (124 sq mi), the Kornati are the densest archipelago in the Mediterranean Sea. From northwest to southeast (from the island of Balabra to Samograd), and from northeast to southwest (from Gangarol to Mana) they stretch for 13 km (8 miles). The name of the archipelago is the plural form of the name of the largest island, called Kornat.</string>
+    <string name="Krka">Krka National Park </string>
+    <string name="Krka_description">Krka National Park that it encloses. It is located along the middle-lower course of the Krka River in central Dalmatia, in Šibenik-Knin county, downstream Miljevci area, and just a few kilometers northeast of the city of Šibenik. It was formed to protect the Krka River and is intended primarily for scientific, cultural, educational, recreational, and tourism activities. It is the seventh national park in Croatia and was proclaimed a national park in 1985.</string>
+    <string name="Mljet">Mljet National Park </string>
+    <string name="Mljet_description">Mljet is the southernmost and easternmost of the larger Adriatic islands of the Dalmatia region of Croatia. The National Park includes the western part of the island, Veliko jezero, Malo jezero, Soline Bay and a sea belt 500 m wide from the most prominent cape of Mljet covering an area of 54 km2. The central parts of the park are Veliko jezero with the Isle of St. Mary, Malo jezero and the villages of Goveðari, Polaèe and Pomena.</string>
+    <string name="Northern_Velebit">Northern Velebit National Park </string>
+    <string name="Northern_Velebit_description">The Northern Velebit National Park is a national park in Croatia that covers 109 km2 of the northern section of the Velebit mountains, the largest mountain range in Croatia. Because of the abundant variety of this part of the Velebit range, the area was upgraded from a nature reserve in 1999, and opened as a national park in September the same year.The whole of the Velebit range is a "nature park", a lesser conservation category. Another national park on Velebit is the Paklenica on its southern side.</string>
+    <string name="Paklenica">Paklenica National Park </string>
+    <string name="Paklenica_description">The Paklenica karst river canyon is a national park in Croatia. It is near Starigrad, northern Dalmatia, on the southern slopes of Velebit mountain, not far from Zadar. It contains two canyons, Mala (Small) and Velika (Big) Paklenica. Today there is no water flowing through Mala Paklenica. Near the entrance to the Velika Paklenica is an artificial tunnel complex built for Josip Broz Tito during the tension between Yugoslavia and the USSR in the late 1940s and early 1950s.</string>
+    <string name="Plitvice_Lakes">Plitvice Lakes National Park</string>
+    <string name="Plitvice_Lakes_description">With its exceptional natural beauty, this area has always attracted nature lovers, and already on 8 April 1949, it was proclaimed Croatia’s first national park. The process of tufa formation, which results in the building of the tufa, or travertine, barriers and resulted in the creation of the lakes, is a unique universal value, for which the Plitvice Lakes were internationally recognised on 26 October 1979 with their inscription onto the UNESCO World Heritage List.</string>
+    <string name="Risnjak">Risnjak National Park </string>
+    <string name="Risnjak_description">Risnjak National Park it is located in Gorski kotar, the most mountainous and heavily forested region of the country, about 15 km inland from the Adriatic Sea. The park covers an area of 63.5 square kilometers including the central part of Risnjak and Snježnik massif and the source area of the river Kupa. The administration and visitor center of the park are located in Crni Lug, a town on the eastern edge of the park.</string>
+    <!-- cities -->
+    <string name="Esplanade"> Esplanade Hotel </string>
+    <string name="Esplanade_description"> A hotel of distinction, glamour, style and tradition Beautifully designed rooms blended with the delicate combination of Art Deco heritage and contemporary touches. A long history of first-class service, spectacular facilities and simply amazing food at a price you can afford. Experience the true essence of luxury. Discover the iconic Esplanade Zagreb Hotel.</string>
+    <string name="Monte_mulini"> Monte Mulini Hotel</string>
+    <string name="Monte_mulini_description"> Enjoy a serene view of the quiet cove from your own balcony, only 10 minutes away from Rovinj`s old town or put your feet up in the lush garden around the pool before exploring the refined cooking in the Wine Vault restaurant. Monte Mulini is a lot more than a hotel. Monte Mulini is an experience.</string>
+    <string name="Osijek_Hotel"> Osijek Hotel</string>
+    <string name="Osijek_Hotel_description"> At the heart of Osijek pedestrian zone one can find Hotel Osijek, situated next to a quiet river port and promenade, the inevitable motives of the cities postcards.Its offer will bring a touch of luxury into your every journey, whether you are a meticulous business guest or interested in exploring the regions tourist attractions.The interior is airy, modern and elegant, and more importantly exudes warmth and kindness of the people who are working to make your experience so seamlessly perfect. Hotel’s gastronomic offer will enrich your impression and make you enjoy even more in the view of river port, its bridges and Baranja plain.</string>
+    <string name="Valamar"> Valamar Hotel </string>
+    <string name="Valamar_description"> Luxury hotel located on the scenic Babin kuk peninsula, 15 minutes from Dubrovnik old town, a few metres from the beach. All sea view rooms, wellness centre, indoor and outdoor pool, award-winning restaurant.</string>
+
+</resources>
+
