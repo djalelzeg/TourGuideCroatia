@@ -26,9 +26,9 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     @Override
     public Fragment getItem(int position) {
         if (position == 0) {
-            return new HotelsFragment();
-        } else if (position == 1){
             return new CitiesFragment();
+        } else if (position == 1){
+            return new HotelsFragment();
         } else if (position == 2) {
             return new IslandsFragment();
         } else {

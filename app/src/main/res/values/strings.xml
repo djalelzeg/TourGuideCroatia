@@ -1,17 +1,17 @@
 <resources>
     <string name="app_name">TourGuideCroatia</string>
-    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <!-- Category name for the cities [CHAR LIMIT=20] -->
     <string name="category_Cities">Cities</string>
 
-    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <!-- Category name for the hotels [CHAR LIMIT=20] -->
     <string name="category_Hotels">Hotels</string>
 
-    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <!-- Category name for the islands [CHAR LIMIT=20] -->
     <string name="category_islands">Islands</string>
 
-    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
-    <string name="category_nationalparks">National Parks</string>
-    <!-- Hotels -->
+    <!-- Category name for the national parks [CHAR LIMIT=20] -->
+    <string name="category_nationalparks">Parks</string>
+    <!-- cities -->
     <string name="Zagreb">Zagreb</string>
     <string name="Zagreb_description">Zagreb is the capital and the largest city of Croatia.It is located in the northwest of the country, along the Sava river, at the southern slopes of the Medvednica mountain. Zagreb lies at an elevation of approximately 122 m (400 ft) above sea level. The estimated population of the city in 2018 is 809,773. The population of Zagreb urban agglomeration is slightly above 1.1 million inhabitants and it makes approximately a quarter of a total population of Croatia.</string>
     <string name="Split">Split</string>
@@ -23,7 +23,7 @@
 
     <!-- islands -->
     <string name="Brač">Brač</string>
-    <string name="Brač_description">Braè is an island in the Adriatic Sea within Croatia, with an area of 396 square kilometres (153 sq mi), making it the largest island in Dalmatia, and the third largest in the Adriatic. It is separated from the mainland by the Braè Channel, which is 5 to 13 km (3 to 8 mi) wide. The islands tallest peak, Vidova gora, or Mount St. Vid, stands at 780 m, making it the highest island point in the Adriatic. The island has a population of 13,956 living in numerous settlements, ranging from the main town Supetar, with more than 3,300 inhabitants, to Murvica, where less than two dozen people live. Braè Airport on Braè is the largest airport of all islands surrounding Split.</string>
+    <string name="Brač_description">Brač is an island in the Adriatic Sea within Croatia, with an area of 396 square kilometres (153 sq mi), making it the largest island in Dalmatia, and the third largest in the Adriatic. It is separated from the mainland by the Braè Channel, which is 5 to 13 km (3 to 8 mi) wide. The islands tallest peak, Vidova gora, or Mount St. Vid, stands at 780 m, making it the highest island point in the Adriatic. The island has a population of 13,956 living in numerous settlements, ranging from the main town Supetar, with more than 3,300 inhabitants, to Murvica, where less than two dozen people live. Braè Airport on Braè is the largest airport of all islands surrounding Split.</string>
     <string name="Cres"> Cres</string>
     <string name="Cres_description">Cres is an Adriatic island in Croatia. It is one of the northern islands in the Kvarner Gulf and can be reached via ferry from Rijeka, the island Krk or from the Istrian peninsula (line Brestova-Porozina).With an area of 405.78 km2, Cres is the same size as the neighbouring island of Krk, although Krk has for many years been thought the largest of the islands. Cres has a population of 3,079 (2011).Cres and the neighbouring island of Lošinj once used to be one island, but were divided by a channel and connected with a bridge at the town of Osor. Cres only fresh water source is the Lake Vrana.</string>
     <string name="Hvar"> Hvar</string>
@@ -47,7 +47,7 @@
     <string name="Plitvice_Lakes_description">With its exceptional natural beauty, this area has always attracted nature lovers, and already on 8 April 1949, it was proclaimed Croatia’s first national park. The process of tufa formation, which results in the building of the tufa, or travertine, barriers and resulted in the creation of the lakes, is a unique universal value, for which the Plitvice Lakes were internationally recognised on 26 October 1979 with their inscription onto the UNESCO World Heritage List.</string>
     <string name="Risnjak">Risnjak National Park </string>
     <string name="Risnjak_description">Risnjak National Park it is located in Gorski kotar, the most mountainous and heavily forested region of the country, about 15 km inland from the Adriatic Sea. The park covers an area of 63.5 square kilometers including the central part of Risnjak and Snježnik massif and the source area of the river Kupa. The administration and visitor center of the park are located in Crni Lug, a town on the eastern edge of the park.</string>
-    <!-- cities -->
+    <!-- Hotels -->
     <string name="Esplanade"> Esplanade Hotel </string>
     <string name="Esplanade_description"> A hotel of distinction, glamour, style and tradition Beautifully designed rooms blended with the delicate combination of Art Deco heritage and contemporary touches. A long history of first-class service, spectacular facilities and simply amazing food at a price you can afford. Experience the true essence of luxury. Discover the iconic Esplanade Zagreb Hotel.</string>
     <string name="Monte_mulini"> Monte Mulini Hotel</string>
